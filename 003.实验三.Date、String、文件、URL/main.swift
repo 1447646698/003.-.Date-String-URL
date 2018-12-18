@@ -3,7 +3,7 @@
 //  003.实验三.Date、String、文件、URL
 //
 //  Created by student on 2018/12/15.
-//  Copyright © 2018年 003.实验三.Date、String、文件、URL. All rights reserved.
+//  Copyright © 2018年 李潘. All rights reserved.
 //
 
 import Foundation
